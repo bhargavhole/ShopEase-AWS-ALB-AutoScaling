@@ -114,11 +114,17 @@ ALB starts routing traffic to the new instance.
 
 ---
 <img width="1917" height="785" alt="Instances" src="https://github.com/user-attachments/assets/afc0ee97-b6bf-43b0-93c8-60f5825139a4" />
+
 <img width="1913" height="817" alt="Target Groups" src="https://github.com/user-attachments/assets/d5fb18ea-2ba9-4e95-acd8-ea83b0c2fde5" />
+
 <img width="1917" height="861" alt="ALB" src="https://github.com/user-attachments/assets/3541e61b-7bfe-4245-8d0a-330d49484c5e" />
+
 <img width="1917" height="966" alt="ASG" src="https://github.com/user-attachments/assets/6e129241-a27d-4041-80d7-5816788392bf" />
+
 <img width="1912" height="901" alt="cloudwatch" src="https://github.com/user-attachments/assets/65a379a5-7eee-42a3-ae32-2604c2dd0557" />
+
 <img width="1917" height="877" alt="Homepage Server-2" src="https://github.com/user-attachments/assets/7766aa00-fef6-4927-aed1-e57ab0127032" />
+
 <img width="1895" height="907" alt="Homepage Server-1" src="https://github.com/user-attachments/assets/0cf22831-e0fd-44c9-af85-320b4ffb96eb" />
 
 
